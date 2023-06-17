@@ -1,0 +1,1 @@
+This is a repository which I just use to store assets when I don't want those assets to be in the repos for the projects they're in.
